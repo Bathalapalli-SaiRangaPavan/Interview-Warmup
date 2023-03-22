@@ -1,0 +1,2 @@
+- Search - https://www.canva.com/resumes/templates/
+- Note - Don't select the one which has icon (paid)
