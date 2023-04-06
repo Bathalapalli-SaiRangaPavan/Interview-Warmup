@@ -1,6 +1,6 @@
 # DevOps Engineer Day-to-Day Activities
 
-### 1st Actiivity: CI/CD Automation
+### 1st Activity: CI/CD Automation
 
 - Automating the CI process & Deployment process.
 - Task to crete a ci pipeline which also has automated tests. creating a deployment process as part of CI/CD.
