@@ -1,5 +1,3 @@
-# Interview held on 6th April 2023
-
 ### GIT
 
 1. Explain Branching strategy you are using?
