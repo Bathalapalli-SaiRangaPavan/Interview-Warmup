@@ -1,6 +1,3 @@
-# Interview held on 22nd March 2023
-
-
 ### TERRAFORM
 
 1. What is the terraform state file?
