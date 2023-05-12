@@ -1,7 +1,3 @@
-# Interview held on 06th March 2023 
-
-
-
 #### Common Questions
 
 1. Tell me about Yourself & Your Day to Day activities?
