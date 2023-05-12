@@ -1,5 +1,3 @@
-# Interview held on 24th March 2023
-
 ### KUBERNETES
 
 1. What are the different deployment strategies and explain?
