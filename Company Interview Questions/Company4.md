@@ -1,5 +1,3 @@
-# Interview held on 29th March 2023
-
 ### JENKINS
 1. How to trigger a job after completion of one job ?
 
