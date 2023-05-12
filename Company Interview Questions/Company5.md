@@ -1,5 +1,3 @@
-# Interview held on 4th April 2023
-
 ### GIT
 
 1. What is the difference between git fetch and git pull?
